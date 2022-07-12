@@ -12,8 +12,8 @@
 }
 
 .about_image-container img {
-    width: 75%;
-    max-width: 400px;
+    width: 90%;
+    max-width: 500px;
     border-radius: 1%;
 }
 
@@ -132,7 +132,7 @@
     }
 
     .about_image-container img {
-        max-width: 500px;
+        max-width: 600px;
         padding-top: 4rem;
     }
 

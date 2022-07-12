@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "../css/about.css";
-import photo from "../assets/base/personal-image.webp";
+import photo from "../assets/base/personal.svg";
 import AboutPop from "./AboutPop";
 
 const About = () => {
