@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/personal-web/static/css/main.5fe42ea9.css",
+    "main.js": "/personal-web/static/js/main.3555cdfa.js",
+    "static/js/787.aeca62f9.chunk.js": "/personal-web/static/js/787.aeca62f9.chunk.js",
+    "static/media/personal.svg": "/personal-web/static/media/personal.15bf853dc562dd206fe6b8bc0cecd44e.svg",
+    "static/media/GOTHIC.TTF": "/personal-web/static/media/GOTHIC.b194aa2bd524e2c973f7.TTF",
+    "static/media/bubbles.svg": "/personal-web/static/media/bubbles.b1559d0cb7331e1ea0e33c89d5ba711a.svg",
+    "static/media/pap.svg": "/personal-web/static/media/pap.c1bbbd49dbd74a7616f27b5775dccf23.svg",
+    "static/media/listatareas-min.webp": "/personal-web/static/media/listatareas-min.5944b0cd2969b8a78e7a.webp",
+    "static/media/yogaypilatesoviedo-min.webp": "/personal-web/static/media/yogaypilatesoviedo-min.687c396aa6ac0e8d2f09.webp",
+    "static/media/elmenudealicia-min.webp": "/personal-web/static/media/elmenudealicia-min.f105ed41146dd6098d8e.webp",
+    "static/media/celiamartinperez-min.webp": "/personal-web/static/media/celiamartinperez-min.1aa181edbc7edfa21874.webp",
+    "static/media/weather-min.webp": "/personal-web/static/media/weather-min.88764e979e84f5958574.webp",
+    "static/media/leandropereyra-min.webp": "/personal-web/static/media/leandropereyra-min.f23121101130abf2c4b3.webp",
+    "static/media/fondo.svg": "/personal-web/static/media/fondo.3a1955fb1956cdeaadbc.svg",
+    "static/media/logo.svg": "/personal-web/static/media/logo.044f49e7ecf22b3a917ad79df2663fff.svg",
+    "static/media/github.svg": "/personal-web/static/media/github.4ac237060a88a3e77f9cc85e2d5fe5b2.svg",
+    "static/media/home-bubble.svg": "/personal-web/static/media/home-bubble.0c9d830dfdfaa231f7c2f922ebca4f90.svg",
+    "static/media/contact-bubble.svg": "/personal-web/static/media/contact-bubble.3f9c2087de65284577053621e4e4ac98.svg",
+    "index.html": "/personal-web/index.html",
+    "static/media/portfolio-bubble.svg": "/personal-web/static/media/portfolio-bubble.323992323a20bd10a5eb96dd8cfcc03b.svg",
+    "static/media/exit.svg": "/personal-web/static/media/exit.b65752588ebb31d1dd0a0ee87e7d545c.svg",
+    "static/media/about-bubble.svg": "/personal-web/static/media/about-bubble.480dcb3b47b23e59c3b9454f323ac3df.svg",
+    "static/media/linkedin.svg": "/personal-web/static/media/linkedin.08c691e0333b3790bdc34fc581f94562.svg",
+    "static/media/menu.svg": "/personal-web/static/media/menu.11ba52dfd6ae9565a4da69b7e4766acd.svg",
+    "static/media/mail.svg": "/personal-web/static/media/mail.39b376b25003f87940aec38dd19b27b6.svg",
+    "static/media/left.svg": "/personal-web/static/media/left.a162c3b6288c2cb200cf40dd3065ac77.svg",
+    "static/media/right.svg": "/personal-web/static/media/right.989cef5c538bb378e61353a4dc0ee736.svg",
+    "main.5fe42ea9.css.map": "/personal-web/static/css/main.5fe42ea9.css.map",
+    "main.3555cdfa.js.map": "/personal-web/static/js/main.3555cdfa.js.map",
+    "787.aeca62f9.chunk.js.map": "/personal-web/static/js/787.aeca62f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe42ea9.css",
+    "static/js/main.3555cdfa.js"
+  ]
+}
