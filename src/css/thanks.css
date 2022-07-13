@@ -1,0 +1,160 @@
+.thanks-container {
+    position: fixed;
+    background-image: url('../assets/base/fondo.svg');
+    background-color: rgb(34, 32, 32);
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0.5rem;
+    z-index: 99999;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow-y: scroll;
+}
+
+.thanks-container::-webkit-scrollbar {
+    width: 2px;
+}
+
+.thanks-container::-webkit-scrollbar-track {
+    background: rgb(32, 19, 37);
+}
+
+.thanks-container::-webkit-scrollbar-thumb {
+    background-color: rgb(255, 44, 143);
+    border-radius: 20px;
+}
+
+.thanks_about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.418);
+    border-radius: 15px;
+    padding: 1rem;
+}
+
+.thanks_info_title_text {
+    font-size: 0.8rem;
+    line-height: 1.2rem;
+}
+
+.thanks_info_title_text span {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1rem;
+}
+
+.thanks_title {
+    font-size: 0.8rem;
+    font-style: italic;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+.thanks_info_title_title {
+    font-size: 1.5rem;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+
+.version {
+    font-style: italic;
+    font-size: 0.8rem;
+    padding-bottom: 2rem;
+}
+
+.thanks_info_title_text {
+    margin: 2rem 0;
+}
+
+.dialog {
+    font-style: italic;
+    font-size: 0.8rem;
+    text-indent: 2rem;
+}
+
+.thanks_exit {
+    position: fixed;
+    top: 1rem;
+    right: 0.5rem;
+}
+
+.thanks_exit img {
+    width: 1.5rem;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.thanks_exit img:hover {
+    transform: scale(120%);
+}
+
+@media screen and (min-width: 700px) {
+    .thanks-container {
+        padding: 3rem;
+    }
+
+    .thanks_title {
+        font-size: 1.5rem;
+    }
+
+    .thanks_info_title_title {
+        font-size: 2.5rem;
+    }
+
+    .thanks_info_title_text {
+        font-size: 1rem;
+        line-height: 1.3rem;
+        text-align: justify;
+    }
+
+    .dialog {
+        font-size: 1rem;
+    }
+
+    .thanks_exit {
+        top: 1rem;
+        right: 1rem;
+    }
+
+    .thanks_exit img {
+        width: 1.8rem;
+    }
+}
+@media screen and (min-width: 1000px){
+    .thanks_about{
+        padding: 3rem 2rem;
+    }
+    .thanks-papa{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    .thanks-papa img{
+        max-width: 400px;
+        margin: 0 0 2rem 4rem;
+    }
+    .version{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+
+    .thanks_about {
+        padding: 4rem 12rem;
+    }
+}
+
+@media screen and (min-width: 1600px){
+    .thanks-papa{
+        padding: 0 10rem;
+    }
+}
